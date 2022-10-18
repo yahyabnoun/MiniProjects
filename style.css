@@ -1,0 +1,30 @@
+body{
+    background-color: orange;
+}
+#contienr{
+    height: 100vh;
+    width: 100%;
+    transform: translate(40%,40%);
+}
+#timer{
+    color: white;
+    font-weight: 800;
+    font-size: 5em;
+}
+.btn{
+    color: orange;
+    background-color: white;
+    font-size: 900;
+    font-size: 1.4rem;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-weight: 900;
+
+    outline: none;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(206, 136, 7);
+
+}
